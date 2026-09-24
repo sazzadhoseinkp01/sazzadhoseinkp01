@@ -4,6 +4,12 @@
 
 <br><br>
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=21&duration=3500&pause=1200&color=000000center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sazzad+Hossin+%F0%9F%91%8B;Aspiring+Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+%26+Responsive+Web+Experiences+%F0%9F%8C%90;Exploring+AI+%26+Modern+Web+Technologies+%F0%9F%A4%96;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80;Code.+Learn.+Build.+Evolve.+%E2%9A%A1" alt="Sazzad Hossin - Developer Typing Animation" />
+
+</div>
+<br><br>
+<div align="center">
 <h1 align="center">
   <span style="color:#38BDF8;">🤝 Let's Connect</span>
 </h1>
