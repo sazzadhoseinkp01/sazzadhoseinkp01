@@ -59,9 +59,9 @@
 
 ---
 
-<h1># 👨‍💻 About Me</h1>
+<h1 align="left"># 👨‍💻 About Me</h1>
 
-<p>Hi, I'm **Md Sazzad Hossin**, a Computer Science & Technology student and aspiring Full-Stack Web Developer from Bangladesh.
+<p align="left">Hi, I'm **Md Sazzad Hossin**, a Computer Science & Technology student and aspiring Full-Stack Web Developer from Bangladesh.
 
 I'm passionate about building modern, responsive and user-friendly web experiences while continuously improving my development skills.
 
@@ -76,11 +76,11 @@ I enjoy learning new technologies, turning ideas into real-world projects, and e
 
 ---</p>
 
-<h2># 🛠️ Tech Stack</h2>
+<h2 align="left"># 🛠️ Tech Stack</h2>
 
-<h2>### 🌐 Frontend</h2>
+<h2 align="left">### 🌐 Frontend</h2>
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" />
 </p>
 
