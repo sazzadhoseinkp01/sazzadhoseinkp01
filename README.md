@@ -4,7 +4,9 @@
 
 <br><br>
 <div align="center">
-# 📫 Connect With Me
+<h1 align="center">
+  <span style="color:#38BDF8;">🤝 Let's Connect</span>
+</h1>
 
 <div align="center">
 
