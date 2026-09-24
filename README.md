@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Sazzad+%F0%9F%91%8B;Computer+Science+%26+Technology+Student+%F0%9F%92%BB;Aspiring+Full-Stack+Web+Developer+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Exploring+AI+%26+Modern+Web+Technologies+%F0%9F%A4%96" alt="Typing SVG">
+
 
 <br>
 
