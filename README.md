@@ -49,9 +49,11 @@
 
 <br>
 
-<a href="https://github.com/sazzadhoseinkp01">
-  <img src="https://komarev.com/ghpvc/?username=sazzadhoseinkp01&label=Profile%20Views&color=00C6FF&style=flat" alt="Profile Views">
-</a>
+<div align="center">
+
+  <a href="https://github.com/sazzadhoseinkp01">
+  <img src="https://komarev.com/ghpvc/?username=sazzadhoseinkp01&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views">
+  </a>
 
 </div>
 
