@@ -84,27 +84,27 @@ I enjoy learning new technologies, turning ideas into real-world projects, and e
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" />
 </p>
 
-<h2>### ⚙️ Backend & Database</h2>
+<h2 align="left">### ⚙️ Backend & Database</h2>
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-<h2>### 🧰 Tools & Platforms</h2>
+<h2 align="left">### 🧰 Tools & Platforms</h2>
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,figma" />
 </p>
 
-<h2>### 🤖 AI & Modern Tools</h2>
+<h2 align="left">### 🤖 AI & Modern Tools</h2>
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
 
-<h2># 📚 Currently Learning</h2>
+<h2 align="left"># 📚 Currently Learning</h2>
 
 <p>```text
 HTML & CSS
