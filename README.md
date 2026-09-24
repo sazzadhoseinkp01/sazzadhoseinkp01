@@ -22,13 +22,6 @@
      alt="Sazzad Hossin Animated Header">
 
 <br><br>
-
-<a href="https://github.com/sazzadhoseinkp01">
-  <img src="https://komarev.com/ghpvc/?username=sazzadhoseinkp01&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge"
-       alt="Profile Views">
-</a>
-
-</div>
 <div align="center">
 
 <a href="mailto:sazzadhoseinkp01@gmail.com">
