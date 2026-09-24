@@ -6,7 +6,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sazzad+Hossin;Aspiring+Full-Stack+Web+Developer;Building+Modern+%26+Responsive+Web+Experiences;Exploring+AI+%26+Modern+Web+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Code.+Learn.+Build.+Evolve." alt="Sazzad Hossin - Developer Typing Animation" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sazzad+Hossin+%F0%9F%91%8B;Aspiring+Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Modern+%26+Responsive+Web+Experiences+%F0%9F%8C%90;Exploring+AI+%26+Modern+Web+Technologies+%F0%9F%A4%96;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80;Code.+Learn.+Build.+Evolve.+%E2%9A%A1" alt="Sazzad Hossin - Developer Typing Animation" />
+
+</div>
 
 </div>
 
