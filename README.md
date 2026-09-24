@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Sazzad+Hossin+%7C+Computer+Science+%26+Technology;Aspiring+Full-Stack+Web+Developer;Frontend+%E2%80%A2+Backend+%E2%80%A2+Modern+Web+Technologies;Building+Scalable+%26+User-Focused+Web+Experiences;Exploring+AI+%26+Intelligent+Automation;Code.+Learn.+Build.+Evolve." alt="Sazzad Hossin Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sazzad+Hossin;Computer+Science+%26+Technology+Student;Aspiring+Full-Stack+Web+Developer;Building+Modern+%26+Responsive+Web+Experiences;Exploring+AI+%26+Modern+Web+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG" />
 
 <br>
 
