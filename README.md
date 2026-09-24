@@ -3,6 +3,7 @@
 <img src="./sazzad-github-header.gif" width="100%" alt="Sazzad Hossain Animated Header">
 
 <br><br>
+<div align="center">
 
 <div align="center">
 
