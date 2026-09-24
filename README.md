@@ -67,14 +67,14 @@ I'm passionate about building modern, responsive and user-friendly web experienc
 
 I enjoy learning new technologies, turning ideas into real-world projects, and exploring how **AI can improve modern software development workflows.**
 
-🎓 Computer Science & Technology Student
-💻 Aspiring Full-Stack Web Developer
-🌐 Currently focused on Web Development
-🤖 Exploring AI Tools & Automation
-📚 Always learning new technologies
-🚀 Building projects to strengthen my practical skills
-
----</p>
+🎓 Computer Science & Technology Student<br>
+💻 Aspiring Full-Stack Web Developer<br>
+🌐 Currently focused on Web Development<br>
+🤖 Exploring AI Tools & Automation<br>
+📚 Always learning new technologies<br>
+🚀 Building projects to strengthen my practical skills<br>
+<hr>
+</p>
 
 <h2 align="left">🛠️ Tech Stack</h2>
 
