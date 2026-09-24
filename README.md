@@ -56,7 +56,7 @@
   </a>
 
 </div>
-<div>
+<div align="left-align">
 ---
 
 # 👨‍💻 About Me
