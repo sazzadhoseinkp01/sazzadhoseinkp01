@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sazzad-github-header.gif" width="100%" alt="Sazzad Hossain Animated Header">
+<img src="./sazzad-github-header.gif" width="100%" alt="Sazzad Hossain Animated Header">
 
 <br><br>
 
