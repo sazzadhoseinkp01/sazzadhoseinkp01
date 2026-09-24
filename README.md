@@ -4,22 +4,29 @@
 
 <br><br>
 <div align="center">
+# 📫 Connect With Me
+
 <div align="center">
 
-📧 **Email:** [sazzadhoseinkp01@gmail.com](mailto:sazzadhoseinkp01@gmail.com)
+<a href="mailto:sazzadhoseinkp01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-🌐 **Facebook:** [md.sazzad.hossin.523829](https://www.facebook.com/md.sazzad.hossin.523829/)
+<a href="https://www.facebook.com/md.sazzad.hossin.523829/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
 
-💼 **LinkedIn:** [md-sazzad-hossin-114112434](https://www.linkedin.com/in/md-sazzad-hossin-114112434/)
+<a href="https://www.linkedin.com/in/md-sazzad-hossin-114112434/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-📸 **Instagram:** [@md_sazzad_hossin_2003](https://www.instagram.com/md_sazzad_hossin_2003/)
+<a href="https://www.instagram.com/md_sazzad_hossin_2003/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-𝕏 **X:** [@mdsazzad_hossin](https://x.com/mdsazzad_hossin)
-
-</div>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=32&duration=3500&pause=1200&color=000000,&center=true&vCenter=true&width=950&lines=Hi%2C+I'm+Sazzad+Hossin+%F0%9F%91%8B;Aspiring+FullStack+Web+Developer+%F0%9F%92%BB;Building+Modern+%26+Responsive+Web+Experiences+%F0%9F%8C%90;Exploring+AI+%26+Modern+Web+Technologies+%F0%9F%A4%96;Learning+%E2%80%A2+Building+%E2%80%A2+Growing+%F0%9F%9A%80;Code.+Learn.+Build.+Evolve.+%E2%9A%A1" alt="Sazzad Hossin - Developer Typing Animation" />
+<a href="https://x.com/mdsazzad_hossin" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
 
 </div>
 
