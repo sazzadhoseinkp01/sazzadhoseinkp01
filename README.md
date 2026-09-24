@@ -58,3 +58,69 @@
 </div>
 
 ---
+
+<h1># 👨‍💻 About Me</h1>
+
+<p>Hi, I'm **Md Sazzad Hossin**, a Computer Science & Technology student and aspiring Full-Stack Web Developer from Bangladesh.
+
+I'm passionate about building modern, responsive and user-friendly web experiences while continuously improving my development skills.
+
+I enjoy learning new technologies, turning ideas into real-world projects, and exploring how **AI can improve modern software development workflows.**
+
+- 🎓 Computer Science & Technology Student
+- 💻 Aspiring Full-Stack Web Developer
+- 🌐 Currently focused on Web Development
+- 🤖 Exploring AI Tools & Automation
+- 📚 Always learning new technologies
+- 🚀 Building projects to strengthen my practical skills
+
+---</p>
+
+<h2># 🛠️ Tech Stack</h2>
+
+<h2>### 🌐 Frontend</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" />
+</p>
+
+<h2>### ⚙️ Backend & Database</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+<h2>### 🧰 Tools & Platforms</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,vercel,figma" />
+</p>
+
+<h2>### 🤖 AI & Modern Tools</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+<h2># 📚 Currently Learning</h2>
+
+<p>```text
+HTML & CSS
+   ↓
+JavaScript
+   ↓
+React.js
+   ↓
+Next.js
+   ↓
+Node.js
+   ↓
+MongoDB
+   ↓
+Full-Stack Development
+   ↓
+AI Tools & Automation
+
+</p>
