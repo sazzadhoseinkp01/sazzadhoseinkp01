@@ -56,7 +56,7 @@
   </a>
 
 </div>
-
+<div>
 ---
 
 # 👨‍💻 About Me
@@ -122,3 +122,4 @@ MongoDB
 Full-Stack Development
    ↓
 AI Tools & Automation
+</div>
